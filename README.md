@@ -1,3 +1,1 @@
-# test
-# test
-# test
+基于spring boot,用来测试mysql主从配置,验证mysql的读写分离
