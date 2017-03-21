@@ -2,3 +2,5 @@
 *.iml
 target
 T.java
+*.class
+hs_err_pid*
